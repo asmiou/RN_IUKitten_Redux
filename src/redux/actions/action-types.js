@@ -1,0 +1,5 @@
+export const SET_USER_DETAILS = "SET_USER_DETAILS";
+export const SET_LOCAL_INFO = "SET_LOCAL_INFO";
+export const LOGIN_FAILED = "LOGIN_FAILED";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const SET_THEME = "SET_THEME";
